@@ -1,0 +1,21 @@
+nav {
+    width: 1280px;
+    height: 60px;
+    display: flex;
+    justify-content: space-between;
+    margin-left: 320px;
+    align-items: center;
+}
+.nav-title{
+    display: flex;
+    align-items: center;
+    gap: 15px;
+}
+.nav-text{
+    gap: 10px;
+}
+nav img {
+    width: 60px;
+    height: 60px;
+    border-radius: 30px;
+}
