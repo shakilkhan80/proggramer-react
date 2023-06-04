@@ -3,7 +3,6 @@ nav {
     height: 60px;
     display: flex;
     justify-content: space-between;
-    margin-left: 320px;
     align-items: center;
 }
 .nav-title{

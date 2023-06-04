@@ -1,0 +1,36 @@
+
+.news{
+    width: 845px;
+    height: 850px;
+}
+.news p{
+    margin-left: 15px;
+}
+.news img{
+    width: 100%;
+    border-radius: 15px;
+}
+.author-container{
+    display: flex;
+    justify-content: space-between;
+    align-items: center;
+    margin-right: 20px;
+}
+.author{
+    display: flex;
+    align-items: center;
+    gap: 20px;
+    margin-top: 5px;
+}
+.author img{
+    width: 60px;
+    height: 60px;
+    border-radius: 30px;
+    margin: 0px;
+}
+.author h2{
+    margin: 0px;
+}
+.author p{
+    margin: 0px;
+}

@@ -1,0 +1,10 @@
+.status-container{
+    display: grid;
+    grid-template-columns: 2fr 1fr;
+    gap: 10px;
+}
+.bookmark-field{
+    background: rgba(17, 17, 17, 0.05);
+    padding: 15px;
+    border-radius: 16px;
+}
